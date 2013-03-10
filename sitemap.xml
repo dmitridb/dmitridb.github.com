@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://dmitridb.github.com/blog/2013/03/09/first-post/</loc>
+        <lastmod>2013-03-10T15:02:38-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://dmitridb.github.com/</loc>
-        <lastmod>2013-03-09T16:35:52-08:00</lastmod>
+        <lastmod>2013-03-10T15:02:38-07:00</lastmod>
     </url>
     <url>
         <loc>http://dmitridb.github.com/blog/archives/</loc>
-        <lastmod>2013-03-09T16:35:52-08:00</lastmod>
+        <lastmod>2013-03-10T15:02:38-07:00</lastmod>
     </url>
     <url>
         <loc>http://dmitridb.github.com/robots.txt</loc>

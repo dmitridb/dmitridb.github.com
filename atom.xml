@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://dmitridb.github.com/atom.xml" rel="self"/>
   <link href="http://dmitridb.github.com/"/>
-  <updated>2013-03-09T20:08:32-08:00</updated>
+  <updated>2013-03-10T15:05:38-07:00</updated>
   <id>http://dmitridb.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First post]]></title>
+    <link href="http://dmitridb.github.com/blog/2013/03/09/first-post/"/>
+    <updated>2013-03-09T20:23:00-08:00</updated>
+    <id>http://dmitridb.github.com/blog/2013/03/09/first-post</id>
+    <content type="html"><![CDATA[<p>Hey, welcome to my octopress blog up on github. This is just a first post to test it all out. I hope to make this a useful space in which to put my musings while hacking about, maybe some how-tos and that sort of thing you see on these octopress blogs.</p>
+]]></content>
+  </entry>
   
 </feed>
